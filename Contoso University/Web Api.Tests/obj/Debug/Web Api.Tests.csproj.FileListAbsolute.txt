@@ -1,0 +1,2 @@
+C:\Users\systecom1277\source\repos\Contoso University\Web Api.Tests\obj\Debug\Web Api.Tests.csprojAssemblyReference.cache
+C:\Users\systecom1277\source\repos\Contoso University\Web Api.Tests\obj\Debug\Web Api.Tests.csproj.CoreCompileInputs.cache
